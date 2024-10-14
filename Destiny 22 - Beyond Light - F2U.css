@@ -409,11 +409,11 @@ content: url('https://i.imgur.com/EBCRGud.jpeg')!important;
 /*-------------------------*/
 
 img[src$="cavedefault.jpg"] {
-  content: url("https://i.imgur.com/WMMXvhe.png") !important;
+  content: url("https://imgur.com/C8mDvws") !important;
 }
 
 img[src$="caveunused.jpg"] {
-  content: url("https://i.imgur.com/KuDfzyF.png") !important;
+  content: url("https://imgur.com/C8mDvws") !important;
 }
 
 /*-------------------------*/
