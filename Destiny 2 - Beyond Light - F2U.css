@@ -48,7 +48,7 @@ div.center.b {
 /*-------------------------*/
 @media (min-width: 220px) {
   body {
-    background: url("https://wallpaperaccess.com/full/4724106.jpg") center center fixed !important;
+    background: url("https://i.imgur.com/6hT2hPH.jpeg") center center fixed !important;
     background-color: var(--Navy);
     position: relative;
     background-size: cover !important;
@@ -82,7 +82,7 @@ html.nolayout body {
 /*-------------------------*/
 /*Lioden ICON*/
 img[src$="logo-full-2.png"]  {
-  content: url("https://i.imgur.com/bA6cFy8.png");
+  content: url("https://i.imgur.com/fAVCHaW.gif");
 width: 75%;
   margin-top: 15px;
 }
@@ -386,7 +386,7 @@ input[type="button"].bad {background: #703145 !important;}
 /*Unsorted Lions*/
 /*-------------------------*/
 img[src$="unsortedlionsbanner.png"] {
-content: url('https://cdn.discordapp.com/attachments/314230235698692096/855374484626472991/unsorted.png')!important;
+content: url('https://i.imgur.com/Ze2RnzP.jpeg')!important;
 }
 
 
@@ -394,14 +394,14 @@ content: url('https://cdn.discordapp.com/attachments/314230235698692096/85537448
 /*Nesting*/
 /*-------------------------*/
 img[src$="nestingbanner.png"] {
-content: url('https://i.imgur.com/V8EVf4b.png')!important;
+content: url('https://i.imgur.com/4LA6yfk.jpeg')!important;
 }
 
 /*-------------------------*/
 /*Overview*/
 /*-------------------------*/
 img[src$="overviewbanner.png"] {
-content: url('https://i.imgur.com/UTLzVO6.png')!important;
+content: url('https://i.imgur.com/EBCRGud.jpeg')!important;
 }
 
 /*-------------------------*/
@@ -427,15 +427,15 @@ img[src$="caveunused.jpg"] {
 
 /*Default Mound Image*/
 img[src$="beetleunsorted.png"] {
-  content: url("https://i.imgur.com/c9u85kV.png") !important;
+  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
 }
 
 img[src$="beetlemound.png"] {
-  content: url("https://i.imgur.com/xdZDfLI.png") !important;
+  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
 }
 
 img[src$="addbeetlemound.png"] {
-  content: url("https://i.imgur.com/4jkgo7E.png") !important;
+  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
 }
 
 /*-------------------------*/
