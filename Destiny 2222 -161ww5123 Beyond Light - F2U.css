@@ -179,19 +179,19 @@ Time/Date, Event Currency, XP/LVL/Hunger, Achievements, Bookmarks*/
 }
 
 .progress div {
-  color: var(--White) !important;
+  color: var(#bfa1c9) !important;
 }
 
 .progress-bar-warning {
-  background: #4e859c !important;
+  background: #714e9c !important;
 }
 
 .progress-bar-danger {
-  background: #703145 !important;
+  background: #6a3170 !important;
 }
 
 .progress-bar-success {
-  background: #558a62 !important;
+  background: #69558a !important;
 }
 
 /*Transparency for Season/Day Cycle*/
@@ -204,15 +204,15 @@ div.floatright.right img {
 /*-------------------------*/
 /*Alerts*/
 .alert {
-  background: #558a62;
+  background: #69558a;
   border: 1px solid var(--NavyDark);
-  color: var(--White);
+  color: var(#bfa1c9);
 }
 
 .alert-warning,
 .alert-danger {
-  background: #703145;
-  color: var(--White);
+  background: #6a3170;
+  color: var(#bfa1c9);
 }
 
 /*-------------------------*/
@@ -262,28 +262,28 @@ h1,
 .h1,
 small {
   text-align: center !important;
-  color: var(--White) !important;
+  color: var(#bfa1c9) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h2,
 .h2 {
   text-align: center;
-  color: var(--White);
+  color: var(#bfa1c9);
   text-shadow: var(--textglow) !important;
 }
 
 h3,
 .h3 {
   text-align: center !important;
-  color: var(--White) !important;
+  color: var(#bfa1c9) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h4,
 .h4 {
   text-align: center !important;
-  color: var(--White) !important;
+  color: var(#bfa1c9) !important;
   text-shadow: var(--textglow) !important;
 }
 
