@@ -923,7 +923,7 @@ width: 40%;}
 
 .HotLinks {
   background: var(--NavyOpaque2);
-  color: var(--White);
+  color: var(#bfa1c9);
   padding: 10px;
   border: 2px solid var(--NavyDark);
   position: fixed;
