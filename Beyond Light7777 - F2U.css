@@ -187,7 +187,7 @@ Time/Date, Event Currency, XP/LVL/Hunger, Achievements, Bookmarks*/
 }
 
 .progress-bar-danger {
-  background: #6a3170 !important;
+  background: #876297 !important;
 }
 
 .progress-bar-success {
@@ -211,7 +211,7 @@ div.floatright.right img {
 
 .alert-warning,
 .alert-danger {
-  background: #6a3170;
+  background: #876297;
   color: var(#9b6fd5);
 }
 
@@ -492,7 +492,7 @@ img[src$="default.png"] {
 }
 
 td.right_odd {
-  background: rgb(14 23 36 / 15%) !important;}
+  background: rgb(24 14 36 / 15%) !important;}
 
 td.right_cub {
   background: var(--DBluGrey);
