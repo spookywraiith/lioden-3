@@ -262,28 +262,28 @@ h1,
 .h1,
 small {
   text-align: center !important;
-  color: var(#afa1c9) !important;
+  color: var(#ea4322) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h2,
 .h2 {
   text-align: center;
-  color: var(#bfa1c9);
+  color: var(#ea4322);
   text-shadow: var(--textglow) !important;
 }
 
 h3,
 .h3 {
   text-align: center !important;
-  color: var(#bfa1c9) !important;
+  color: var(#ea4322) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h4,
 .h4 {
   text-align: center !important;
-  color: var(#bfa1c9) !important;
+  color: var(#ea4322) !important;
   text-shadow: var(--textglow) !important;
 }
 
