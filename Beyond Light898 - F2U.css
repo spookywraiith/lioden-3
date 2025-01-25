@@ -386,7 +386,7 @@ input[type="button"].bad {background: #703145 !important;}
 /*Unsorted Lions*/
 /*-------------------------*/
 img[src$="unsortedlionsbanner.png"] {
-content: url('https://cdn.discordapp.com/attachments/314230235698692096/855374484626472991/unsorted.png')!important;
+content: url('https://images2.imgbox.com/2d/2e/WXgIt0wQ_o.jpg')!important;
 }
 
 
@@ -394,14 +394,14 @@ content: url('https://cdn.discordapp.com/attachments/314230235698692096/85537448
 /*Nesting*/
 /*-------------------------*/
 img[src$="nestingbanner.png"] {
-content: url('https://i.imgur.com/V8EVf4b.png')!important;
+content: url('https://images2.imgbox.com/eb/94/XI8ENA93_o.jpg')!important;
 }
 
 /*-------------------------*/
 /*Overview*/
 /*-------------------------*/
 img[src$="overviewbanner.png"] {
-content: url('https://i.imgur.com/UTLzVO6.png')!important;
+content: url('https://images2.imgbox.com/24/4d/mgiw1xrc_o.jpg')!important;
 }
 
 /*-------------------------*/
@@ -409,11 +409,11 @@ content: url('https://i.imgur.com/UTLzVO6.png')!important;
 /*-------------------------*/
 
 img[src$="cavedefault.jpg"] {
-  content: url("https://i.imgur.com/WMMXvhe.png") !important;
+  content: url("https://images2.imgbox.com/1a/73/Pu6LeZxd_o.jpg") !important;
 }
 
 img[src$="caveunused.jpg"] {
-  content: url("https://i.imgur.com/KuDfzyF.png") !important;
+  content: url("https://images2.imgbox.com/0a/ab/nmxk57gj_o.jpg") !important;
 }
 
 /*-------------------------*/
