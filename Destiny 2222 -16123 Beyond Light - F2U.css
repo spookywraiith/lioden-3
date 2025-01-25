@@ -734,22 +734,22 @@ input[type="reset"]:hover {
 button[type="button"].gold,
 button[type="submit"].gold,
 input[type="submit"].gold {
-	background: #ffe568;
-    background: linear-gradient(to bottom,  #ffe568 0%,#ff8818 98%) !important;
-	color: #753E15!important;
-	border: 1px solid #ff8818!important;
-	text-shadow: 1px 1px 0px #FFCB52!important;
+	background: #cb68ff;
+    background: linear-gradient(to bottom,  #cb68ff 0%,#bb18ff 98%) !important;
+	color: #5b1575!important;
+	border: 1px solid #bb18ff!important;
+	text-shadow: 1px 1px 0px #c052ff!important;
 }
 
 button[type="button"].gold:hover,
 button[type="submit"].gold:hover,
 input[type="submit"].gold:hover {
-background: #ffe97d;
-background: linear-gradient(to bottom,  #ffe97d 0%,#ff9a3b 98%) !important;
-	color: #753E15!important;
-	border: 1px solid #ff8818!important;
-	text-shadow: 1px 1px 0px #FFCB52!important;
-	box-shadow: 0px 0px 3px #E8A137!important;
+background: #dc7dff;
+background: linear-gradient(to bottom,  #bd7dff 0%,#b33bff 98%) !important;
+	color: #5b1575!important;
+	border: 1px solid #bb18ff!important;
+	text-shadow: 1px 1px 0px #c052ff!important;
+	box-shadow: 0px 0px 3px #8237e8!important;
 }
 
 #btnLoadNewMessages {
