@@ -48,7 +48,7 @@ div.center.b {
 /*-------------------------*/
 @media (min-width: 220px) {
   body {
-    background: url("https://i.imgur.com/6hT2hPH.jpeg") center center fixed !important;
+    background: url("https://wallpaperaccess.com/full/4724106.jpg") center center fixed !important;
     background-color: var(--Navy);
     position: relative;
     background-size: cover !important;
@@ -82,7 +82,7 @@ html.nolayout body {
 /*-------------------------*/
 /*Lioden ICON*/
 img[src$="logo-full-2.png"]  {
-  content: url("https://i.imgur.com/fAVCHaW.gif");
+  content: url("https://i.imgur.com/bA6cFy8.png");
 width: 75%;
   margin-top: 15px;
 }
@@ -119,7 +119,7 @@ width: 75%;
 
 .navbar li a:hover {
   background: var(--Navy) !important;
-  text-shadow: 0px 0px 5px var(--White), 0 0 1em #b60cff,
+  text-shadow: 0px 0px 5px var(--White), 0 0 1em #0ce1ff,
     0 0 0.2em var(--White) !important;
 }
 
@@ -127,7 +127,7 @@ width: 75%;
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: var(--Navy);
-  text-shadow: 1px 1px 2px #3c144a, 0 0 1em #635868, 0 0 0.2em white !important;
+  text-shadow: 1px 1px 2px #143a4a, 0 0 1em #586668, 0 0 0.2em white !important;
 }
 
 /*-------------------------*/
@@ -179,19 +179,19 @@ Time/Date, Event Currency, XP/LVL/Hunger, Achievements, Bookmarks*/
 }
 
 .progress div {
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
 }
 
 .progress-bar-warning {
-  background: #714e9c !important;
+  background: #4e859c !important;
 }
 
 .progress-bar-danger {
-  background: #876297 !important;
+  background: #703145 !important;
 }
 
 .progress-bar-success {
-  background: #69558a !important;
+  background: #558a62 !important;
 }
 
 /*Transparency for Season/Day Cycle*/
@@ -204,15 +204,15 @@ div.floatright.right img {
 /*-------------------------*/
 /*Alerts*/
 .alert {
-  background: #69558a;
+  background: #558a62;
   border: 1px solid var(--NavyDark);
-  color: var(#9b6fd5);
+  color: var(--White);
 }
 
 .alert-warning,
 .alert-danger {
-  background: #876297;
-  color: var(#9b6fd5);
+  background: #703145;
+  color: var(--White);
 }
 
 /*-------------------------*/
@@ -250,7 +250,7 @@ div#lion_image {
 
 .breadcrumb::after {
   color: var(--White);
-  content: " /  CSS by Hok-Z";
+  content: " /  CSS by Hok-Z";
   position: relative;
   font-weight: bold;
 }
@@ -262,28 +262,28 @@ h1,
 .h1,
 small {
   text-align: center !important;
-  color: var(#a47cb3) !important;
+  color: var(--White) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h2,
 .h2 {
   text-align: center;
-  color: var(#a47cb3);
+  color: var(--White);
   text-shadow: var(--textglow) !important;
 }
 
 h3,
 .h3 {
   text-align: center !important;
-  color: var(#a47cb3) !important;
+  color: var(--White) !important;
   text-shadow: var(--textglow) !important;
 }
 
 h4,
 .h4 {
   text-align: center !important;
-  color: var(#a47cb3) !important;
+  color: var(--White) !important;
   text-shadow: var(--textglow) !important;
 }
 
@@ -386,7 +386,7 @@ input[type="button"].bad {background: #703145 !important;}
 /*Unsorted Lions*/
 /*-------------------------*/
 img[src$="unsortedlionsbanner.png"] {
-content: url('https://i.imgur.com/Ze2RnzP.jpeg')!important;
+content: url('https://cdn.discordapp.com/attachments/314230235698692096/855374484626472991/unsorted.png')!important;
 }
 
 
@@ -394,14 +394,14 @@ content: url('https://i.imgur.com/Ze2RnzP.jpeg')!important;
 /*Nesting*/
 /*-------------------------*/
 img[src$="nestingbanner.png"] {
-content: url('https://i.imgur.com/4LA6yfk.jpeg')!important;
+content: url('https://i.imgur.com/V8EVf4b.png')!important;
 }
 
 /*-------------------------*/
 /*Overview*/
 /*-------------------------*/
 img[src$="overviewbanner.png"] {
-content: url('https://i.imgur.com/EBCRGud.jpeg')!important;
+content: url('https://i.imgur.com/UTLzVO6.png')!important;
 }
 
 /*-------------------------*/
@@ -409,11 +409,11 @@ content: url('https://i.imgur.com/EBCRGud.jpeg')!important;
 /*-------------------------*/
 
 img[src$="cavedefault.jpg"] {
-  content: url("https://i.imgur.com/C8mDvws.jpeg") !important;
+  content: url("https://i.imgur.com/WMMXvhe.png") !important;
 }
 
 img[src$="caveunused.jpg"] {
-  content: url("https://i.imgur.com/C8mDvws.jpeg") !important;
+  content: url("https://i.imgur.com/KuDfzyF.png") !important;
 }
 
 /*-------------------------*/
@@ -427,15 +427,15 @@ img[src$="caveunused.jpg"] {
 
 /*Default Mound Image*/
 img[src$="beetleunsorted.png"] {
-  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
+  content: url("https://i.imgur.com/c9u85kV.png") !important;
 }
 
 img[src$="beetlemound.png"] {
-  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
+  content: url("https://i.imgur.com/xdZDfLI.png") !important;
 }
 
 img[src$="addbeetlemound.png"] {
-  content: url("https://i.imgur.com/OCiMEgq.jpeg") !important;
+  content: url("https://i.imgur.com/4jkgo7E.png") !important;
 }
 
 /*-------------------------*/
@@ -492,7 +492,7 @@ img[src$="default.png"] {
 }
 
 td.right_odd {
-  background: rgb(24 14 36 / 15%) !important;}
+  background: rgb(14 23 36 / 15%) !important;}
 
 td.right_cub {
   background: var(--DBluGrey);
@@ -707,7 +707,7 @@ input[type="button"],
 input[type="submit"],
 input[type="reset"] {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: var(--textglow) !important;
@@ -722,7 +722,7 @@ input[type="button"]:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover {
   background: var(--LightNavy) !important;
-  color: ##d5ca6fa1 !important;
+  color: #ffffffa1 !important;
   border: 1px solid var(--NavyDark) !important;
   text-align: center !important;
   text-shadow: none;
@@ -734,22 +734,22 @@ input[type="reset"]:hover {
 button[type="button"].gold,
 button[type="submit"].gold,
 input[type="submit"].gold {
-	background: #cb68ff;
-    background: linear-gradient(to bottom,  #cb68ff 0%,#bb18ff 98%) !important;
-	color: #5b1575!important;
-	border: 1px solid #bb18ff!important;
-	text-shadow: 1px 1px 0px #c052ff!important;
+	background: #ffe568;
+    background: linear-gradient(to bottom,  #ffe568 0%,#ff8818 98%) !important;
+	color: #753E15!important;
+	border: 1px solid #ff8818!important;
+	text-shadow: 1px 1px 0px #FFCB52!important;
 }
 
 button[type="button"].gold:hover,
 button[type="submit"].gold:hover,
 input[type="submit"].gold:hover {
-background: #dc7dff;
-background: linear-gradient(to bottom,  #bd7dff 0%,#b33bff 98%) !important;
-	color: #5b1575!important;
-	border: 1px solid #bb18ff!important;
-	text-shadow: 1px 1px 0px #c052ff!important;
-	box-shadow: 0px 0px 3px #8237e8!important;
+background: #ffe97d;
+background: linear-gradient(to bottom,  #ffe97d 0%,#ff9a3b 98%) !important;
+	color: #753E15!important;
+	border: 1px solid #ff8818!important;
+	text-shadow: 1px 1px 0px #FFCB52!important;
+	box-shadow: 0px 0px 3px #E8A137!important;
 }
 
 #btnLoadNewMessages {
@@ -764,7 +764,7 @@ background: linear-gradient(to bottom,  #bd7dff 0%,#b33bff 98%) !important;
 
 textarea {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -774,7 +774,7 @@ textarea {
 
 textarea:focus {
   background: var(--DBluGrey) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -784,7 +784,7 @@ textarea:focus {
 
 select {
   background: var(--DBluGrey) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -794,7 +794,7 @@ select {
 
 select:focus {
   background: var(--DBluGrey) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -804,7 +804,7 @@ select:focus {
 
 input[type="text"] {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -814,7 +814,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -824,7 +824,7 @@ input[type="text"]:focus {
 
 input[type="password"] {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -834,7 +834,7 @@ input[type="password"] {
 
 input[type="password"]:focus {
   background: var(--Navy) !important;
-  color: var(#bfa1c9) !important;
+  color: var(--White) !important;
   border: 1px solid var(--DarkerBluGrey) !important;
   text-align: center !important;
   text-shadow: none !important;
@@ -851,8 +851,8 @@ input[type="password"]:focus {
 }
 
 .div#chatMessagePinned {
-  background: #260f42 !important;
-  border: #260f42 !important;
+  background: #0f2f42 !important;
+  border: #0f2f42 !important;
   color: white;
 }
 
@@ -923,7 +923,7 @@ width: 40%;}
 
 .HotLinks {
   background: var(--NavyOpaque2);
-  color: var(#bfa1c9);
+  color: var(--White);
   padding: 10px;
   border: 2px solid var(--NavyDark);
   position: fixed;
@@ -3594,4 +3594,3 @@ width: 40%;}
     transform: translate(93.59075vw, 100vh) scale(0.6115);
   }
 }
- 
