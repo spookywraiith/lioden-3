@@ -206,13 +206,13 @@ div.floatright.right img {
 .alert {
   background: #69558a;
   border: 1px solid var(--NavyDark);
-  color: var(#ead522);
+  color: var(#9b6fd5);
 }
 
 .alert-warning,
 .alert-danger {
   background: #6a3170;
-  color: var(#ead522);
+  color: var(#9b6fd5);
 }
 
 /*-------------------------*/
