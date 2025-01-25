@@ -204,14 +204,14 @@ div.floatright.right img {
 /*-------------------------*/
 /*Alerts*/
 .alert {
-  background: #558a62;
+  background: #70558a;
   border: 1px solid var(--NavyDark);
   color: var(--White);
 }
 
 .alert-warning,
 .alert-danger {
-  background: #703145;
+  background: #5f3170;
   color: var(--White);
 }
 
@@ -847,29 +847,29 @@ input[type="password"]:focus {
 /*-------------------------*/
 #fra_chatContainer .modMessage,
 .s-chat-message__mod {
-  background: #5d2839 !important;
+  background: #50285d !important;
 }
 
 .div#chatMessagePinned {
-  background: #0f2f42 !important;
-  border: #0f2f42 !important;
+  background: #320f42 !important;
+  border: #320f42 !important;
   color: white;
 }
 
 .s-chat-message:nth-child(odd) {
   background: var(--Navy);
   color: var(--GhostBlue) !important;
-  text-shadow: 1px 1px 2px #18050d;
-  -webkit-box-shadow: 0px 0px 5px #18050d;
-  box-shadow: 0px 0px 5px #18050d;
+  text-shadow: 1px 1px 2px #120518;
+  -webkit-box-shadow: 0px 0px 5px #120518;
+  box-shadow: 0px 0px 5px #120518;
 }
 
 .s-chat-message:nth-child(even) {
   background: var(--DarkerBluGrey);
   color: var(--GhostBlue) !important;
-  text-shadow: 1px 1px 2px #18050d;
-  -webkit-box-shadow: 0px 0px 5px #18050d;
-  box-shadow: 0px 0px 5px #18050d;
+  text-shadow: 1px 1px 2px #120518;
+  -webkit-box-shadow: 0px 0px 5px #120518;
+  box-shadow: 0px 0px 5px #120518;
 }
 
 .s-chat-message_timestamp {
