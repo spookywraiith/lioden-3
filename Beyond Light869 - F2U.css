@@ -183,15 +183,15 @@ Time/Date, Event Currency, XP/LVL/Hunger, Achievements, Bookmarks*/
 }
 
 .progress-bar-warning {
-  background: #4e859c !important;
+  background: #6a4e9c !important;
 }
 
 .progress-bar-danger {
-  background: #703145 !important;
+  background: #5f3170 !important;
 }
 
 .progress-bar-success {
-  background: #558a62 !important;
+  background: #70558a !important;
 }
 
 /*Transparency for Season/Day Cycle*/
