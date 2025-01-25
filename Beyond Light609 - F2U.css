@@ -5,18 +5,18 @@ This Code was Written by Hok-Z#41458.*/
 
 /*Color and Root Variable Settings*/
 :root {
-  --NavyDark: #1c1624;
-  --Navy: #302440;
-  --NavyOpaque1: #101a423a;
-  --NavyOpaque2: #101a7821;
-  --DBluGrey: #553e62;
-  --LightNavy: #451f55;
-  --DarkerBluGrey: #091bb535;
-  --PowderBlue: #dcc3e8;
-  --GhostBlue: #e8d4ef;
-  --White: #bfa1c9;
+  --NavyDark: #091B26;
+  --Navy: #0F2F42;
+  --NavyOpaque1: #101a2942;
+  --NavyOpaque2: #101a2978;
+  --DBluGrey: #0f232f;
+  --LightNavy: #1f4155;
+  --DarkerBluGrey: #091b26b5;
+  --PowderBlue: #C3DAE8;
+  --GhostBlue: #d4e5ef;
+  --White: #ffffff;
   --round: 10px;
-  --textglow: 0px 0px 5px var(--White), 0 0 1em #1b0722,
+  --textglow: 0px 0px 5px var(--White), 0 0 1em #586668,
     0 0 0.2em var(--White) !important;
 }
 
