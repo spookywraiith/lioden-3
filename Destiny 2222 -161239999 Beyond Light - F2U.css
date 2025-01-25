@@ -851,8 +851,8 @@ input[type="password"]:focus {
 }
 
 .div#chatMessagePinned {
-  background: #0f2f42 !important;
-  border: #0f2f42 !important;
+  background: #260f42 !important;
+  border: #260f42 !important;
   color: white;
 }
 
