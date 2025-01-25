@@ -127,7 +127,7 @@ width: 75%;
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: var(--Navy);
-  text-shadow: 1px 1px 2px #143a4a, 0 0 1em #586668, 0 0 0.2em white !important;
+  text-shadow: 1px 1px 2px #3c144a, 0 0 1em #586668, 0 0 0.2em white !important;
 }
 
 /*-------------------------*/
